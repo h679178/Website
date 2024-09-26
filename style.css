@@ -1,0 +1,41 @@
+.header1 {
+    color: floralwhite;   
+    font-size: 2em; 
+}
+
+.header1alt {
+    color: red;
+}
+
+.para {
+    color: purple;
+    /*background-color: blue;*/
+}
+
+.para-alt {
+    color: blue;
+}
+
+.intro {
+    color: purple;
+}
+
+.liste {
+    color: floralwhite;
+}
+
+.header2 {
+    color: floralwhite;
+}
+
+.body {
+    display: grid;
+    font-size: 1.5em;
+    justify-content: center;
+    background-color: dimgrey;
+}
+
+.darkmode {
+    color: green;
+    background-color: black;
+}
